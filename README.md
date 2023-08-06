@@ -6,7 +6,7 @@ Olá!! Bem-vindo ao meu perfil, sou o Giovane Miranda, desenvolvedor Back-End!
 
 <div>
   <a href="https://github.com/GiovaneMiranda15">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovaneMiranda15&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovaneMiranda15&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovaneMiranda15&theme=dark&layout=compact&langs_count=16"/><br>
 </div>
 <br>
