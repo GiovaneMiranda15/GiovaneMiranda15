@@ -1,33 +1,50 @@
-##
-Olá!! Bem-vindo ao meu perfil, sou o Giovane Miranda, desenvolvedor Back-End!
+# Giovane Miranda
 
-- 💻 Javascript & TypeScript
-- 🤓 Conhecendo o lado Full-Stack
+Engenheiro de Software com foco em arquitetura de sistemas, automação e soluções orientadas a valor de negócio.
 
-<div>
-  <a href="https://github.com/GiovaneMiranda15">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GiovaneMiranda15&show_icons=false&theme=tokyonight"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovaneMiranda15&theme=tokyonight&layout=compact&langs_count=16"/><br>
-</div>
-<br>
-<div>
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-    <img align="center" alt="AdonisJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
-    <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />       
-    <img align="center" alt="VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-    <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />      
-</div>
-    
-##
+Atuo principalmente no backend com Node.js e TypeScript, mas venho expandindo minha atuação para áreas estratégicas como Linux, DevOps, Cloud, bancos de dados e automação com IA — com o objetivo de evoluir para posições de liderança técnica e arquitetura.
 
-<div>
-  <a href="www.linkedin.com/in/giovane-miranda-73790320a" target="_blank"><img = src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:mirandagiovane7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+---
+
+## 🧠 Mentalidade Técnica
+
+- Busco clareza arquitetural e separação de responsabilidades.
+- Prioridade em previsibilidade, resiliência e qualidade de código.
+- Decisões técnicas orientadas a impacto de negócio.
+- Evolução contínua para ampliar visão sistêmica além do código.
+
+---
+
+## 🏗 Arquitetura & Engenharia
+
+- Organização por camadas (Clean Architecture)
+- Modelagem e estruturação de domínio
+- Estratégias de retry e idempotência
+- Integrações externas e automações
+- Comunicação em tempo real (WebSocket)
+- Estruturação de APIs REST
+
+---
+
+## ⚙️ Infraestrutura & Ecossistema
+
+- Linux (ambientes e configuração)
+- Docker
+- Conceitos de CI/CD
+- Banco de dados relacionais
+- Noções de mensageria e filas
+- Estruturação de ambientes para desenvolvimento e produção
+
+---
+
+## 🤖 Automação & IA
+
+- Bots e integrações
+- Orquestração de fluxos
+- Exploração de agentes de IA para revisão e produtividade
+
+---
+
+## 🎯 Direção Profissional
+
+Construindo base sólida para atuar como Tech Lead / Arquiteto, conectando engenharia, estratégia e impacto real no negócio.
